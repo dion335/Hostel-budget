@@ -1,0 +1,30 @@
+HOSTEL BUDGET REPORT
+Student: Gidion
+Cycle: 2026-11-01 to 2026-12-31 (60 days)
+Generated: 2026-11-01
+
+Budget received: TSh 595,000
+Total spent:     TSh 0
+Moved to savings: TSh 0
+Balance left:    TSh 595,000
+Days left:       60
+Budget used:     0.0%
+Average per day: TSh 0
+Transactions:    0
+
+SPENDING BY CATEGORY (spent / limit)
+Food: 0 / 250,000
+Hostel and Utilities: 0 / 0
+Transport: 0 / 50,000
+Airtime and Data: 0 / 0
+Study and Education: 0 / 40,000
+Laundry and Toiletries: 0 / 0
+Entertainment: 0 / 35,000
+Emergency: 0 / 60,000
+Other Expenses: 0 / 0
+Hostel and utilities: 0 / 100,000
+Airtime and data: 0 / 30,000
+Laundry and toiletries: 0 / 30,000
+
+SAVINGS GOALS
+None set.
